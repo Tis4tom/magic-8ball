@@ -1,0 +1,1 @@
+A basic magic 8ball project except it only responds with unhelpful answers.
